@@ -1,2 +1,1 @@
-# expensetracker
-Created with CodeSandbox
+
